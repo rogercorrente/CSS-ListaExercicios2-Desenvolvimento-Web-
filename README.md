@@ -2,8 +2,7 @@
 Exercicios da disciplina de Desenvolvimento Web
 
 # Introdução CSS
-Exercício 8.1 Associe a um documento HTML qualquer o código CSS para que todos os parágrafos tenham fonte de tamanho 18px utilizando as três formas de associação de código CSS a
-documentos HTML: inline (atributo style), interno (elemento <style>) e externo (arquivo CSS).
+Exercício 8.1 Associe a um documento HTML qualquer o código CSS para que todos os parágrafos tenham fonte de tamanho 18px utilizando as três formas de associação de código CSS a documentos HTML: inline (atributo style), interno (elemento <style>) e externo (arquivo CSS).
 
 Exercício 8.2 Crie um seletor CSS para o elemento HTML <h1> utilizando o seletor de tipo de elemento
 
