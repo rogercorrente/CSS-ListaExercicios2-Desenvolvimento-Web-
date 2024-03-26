@@ -14,7 +14,7 @@ ID.
 Exercício 8.4 Crie um seletor CSS para todos os elementos HTML da classe destaque utilizando o
 seletor por classe. 
 
-Exercício 8.5 Crie um seletor CSS para os elementos HTML do tipo <p> dentro de um elemento da
+Exercício 8.5 Crie um seletor CSS para os elementos HTML do tipo p dentro de um elemento da
 classe container utilizando o seletor de descendência.
 
 # Documentos HTML e CSS
