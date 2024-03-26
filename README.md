@@ -1,16 +1,21 @@
-# HTML-Exercicios-Desenvolvimento-Web
+# CSS-Exercicios-Desenvolvimento-Web
 Exercicios da disciplina de Desenvolvimento Web
 
 # Introdução
-Exercício 1.1 Quais são os 3 tipos de códigos básicos de uma página de hipertexto? Explique para que serve cada um dos tipos.
+Exercício 8.1 Associe a um documento HTML qualquer o código CSS para que todos os parágrafos tenham fonte de tamanho 18px utilizando as três formas de associação de código CSS a
+documentos HTML: inline (atributo style), interno (elemento <style>) e externo (arquivo CSS).
 
-Exercício 1.2 Quantos arquivos CSS e Javascript podem estar vinculados a uma mesma página de hipertexto? Justifique sua resposta.
+Exercício 8.2 Crie um seletor CSS para o elemento HTML <h1> utilizando o seletor de tipo de
+elemento.
 
-Exercício 1.3 É possível diferentes páginas de hipertexto terem vínculo com os mesmos arquivos Javascript e CSS? Justifique sua resposta.
+Exercício 8.3 Crie um seletor CSS para o elemento HTML com o ID titulo utilizando o seletor por
+ID.
 
-Exercício 1.4 Descreva a diferença entre uma página de hipertexto estática e uma dinâmica, pontuando as vantagens e desvantagens de cada um dos dois tipos.
+Exercício 8.4 Crie um seletor CSS para todos os elementos HTML da classe destaque utilizando o
+seletor por classe. 
 
-Exercício 1.5 Qual é o caminho percorrido por uma requisição HTTP a uma página de hipertexto estática?
+Exercício 8.5 Crie um seletor CSS para os elementos HTML do tipo <p> dentro de um elemento da
+classe container utilizando o seletor de descendência.
 
 # Documentos HTML e CSS
 Exercício 2.1 Qual é o elemento HTML que contém todos os demais elementos de uma página?
