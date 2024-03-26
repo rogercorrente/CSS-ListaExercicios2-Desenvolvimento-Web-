@@ -17,5 +17,7 @@ seletor por classe.
 Exercício 8.5 Crie um seletor CSS para os elementos HTML do tipo p dentro de um elemento da
 classe container utilizando o seletor de descendência.
 
+# Cores, Planos de Fundo, Bordas e Margens
+
 
 
